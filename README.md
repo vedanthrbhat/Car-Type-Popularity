@@ -1,7 +1,7 @@
 # **Car Features Popularity Analysis – Interactive Dashboard in Power BI**  
 ---
 
-This project involves creating a interactive dashboard using power bi to find the popularity based on the cars features.
+This project involves creating an interactive dashboard using power bi to find the popularity based on the cars features.
 
 ---
 
