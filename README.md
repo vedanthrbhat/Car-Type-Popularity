@@ -32,6 +32,6 @@ The goal is to provide **actionable insights** that help car manufacturers under
 - **Premium vs. Budget Brands:** Clear differentiation between luxury and economy car manufacturers based on pricing and features.  
 
 ---
-# Screenshots of Dashboard
+# Screenshot of Dashboard
 
 ![Screenshot 2025-03-18 161404](https://github.com/user-attachments/assets/ef9eb794-dc9d-49c7-8eed-e5edeb120d8b)
