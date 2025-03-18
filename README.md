@@ -33,5 +33,5 @@ The goal is to provide **actionable insights** that help car manufacturers under
 
 ---
 # Screenshots of Dashboard
-![Car Features Dashboard]("C:\Users\vedan\Pictures\Screenshots\Screenshot 2025-03-18 161404.png")
 
+![Screenshot 2025-03-18 161404](https://github.com/user-attachments/assets/ef9eb794-dc9d-49c7-8eed-e5edeb120d8b)
