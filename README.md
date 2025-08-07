@@ -32,6 +32,8 @@ The goal is to provide **actionable insights** that help car manufacturers under
 - **Premium vs. Budget Brands:** Clear differentiation between luxury and economy car manufacturers based on pricing and features.  
 
 ---
+To open the report click the link:https://app.powerbi.com/reportEmbed?reportId=089a6719-bb5f-4908-9da8-f3966fc39aae&autoAuth=true&ctid=ca09097f-2548-4b5e-bc01-1c639dbc7a7f
+---
 # Screenshot of Dashboard
 
 ![Screenshot 2025-03-18 161404](https://github.com/user-attachments/assets/ef9eb794-dc9d-49c7-8eed-e5edeb120d8b)
